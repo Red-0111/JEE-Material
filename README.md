@@ -1,2 +1,3 @@
 # JEE-Material
-IIT JEE notes and questions chapterwise
+IIT JEE preparation notes and questions 
+
