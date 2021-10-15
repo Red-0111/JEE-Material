@@ -1,3 +1,3 @@
 # JEE-Material
-IIT JEE preparation notes and questions 
+Notes and Questions for preparation of JEE 
 
